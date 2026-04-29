@@ -1,4 +1,4 @@
-# 👋 Hi, I'm José Alfredo Mota Pérez
+# 👋 Hi, I'm Alfredo Mota
 
 ## 👨‍💻 About me
 - Frontend Developer | Contractor
