@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm José Alfredo Mota Pérez
 
-<!--
-**alfredomota90/alfredomota90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About me
+- Frontend Developer | Contractor
+- Passionate about building modern web interfaces and great user experiences
+- Currently working on projects with React, Tailwind CSS, and Python
+- Always learning something new 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://skillicons.dev/icons?js)
+![React](https://skillicons.dev/icons?react)
+![Python](https://skillicons.dev/icons?python)
+![Tailwind](https://skillicons.dev/icons?tailwind)
+![Git](https://skillicons.dev/icons?git)
+![NodeJS](https://skillicons.dev/icons?nodejs)
+![Vite](https://skillicons.dev/icons?vite)
+![Redux](https://skillicons.dev/icons?redux)
+![Playwright](https://skillicons.dev/icons?playwright)
+
+## 📁 Featured Projects
+
+### 📚 Library Web App
+- Full-stack web app as frontend contractor
+- Tech: React 19, React Router, Tailwind CSS, JWT, Spring Boot
+
+### 🌍 Worldwise
+- Travel tracking application
+- Tech: React, Redux, Google Maps, OpenStreetMap
+
+## 📫 Contact
+
+- 📧 amota@tutamail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-alfredo-mota-perez-40988517b)
+- 📍 Durango, Mexico
