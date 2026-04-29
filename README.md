@@ -33,4 +33,3 @@
 - 📧 amota@tutamail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-alfredo-mota-perez-40988517b)
 - 📍 Durango, Mexico
-This version uses shields.io badges that should work correctly. Copy and paste it into your README.md file on GitHub.
