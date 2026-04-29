@@ -34,19 +34,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-alfredo-mota-perez-40988517b)
 - 📍 Durango, Mexico
 This version uses shields.io badges that should work correctly. Copy and paste it into your README.md file on GitHub.
-
-## 📁 Featured Projects
-
-### 📚 Library Web App
-- Full-stack web app as frontend contractor
-- Tech: React 19, React Router, Tailwind CSS, JWT, Spring Boot
-
-### 🌍 Worldwise
-- Travel tracking application
-- Tech: React, Redux, Google Maps, OpenStreetMap
-
-## 📫 Contact
-
-- 📧 amota@tutamail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-alfredo-mota-perez-40988517b)
-- 📍 Durango, Mexico
